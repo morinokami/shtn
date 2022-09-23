@@ -1,3 +1,7 @@
 name = "shtn"
 main = "src/index.ts"
 compatibility_date = "2022-09-22"
+
+kv_namespaces = [
+  { binding = "SHORT_URLS", id = "99fc264e0c1a478c99f2ba10f7961f97", preview_id = "f82a5b3e76d14d4d8f57c9c9b75956fe" }
+]
